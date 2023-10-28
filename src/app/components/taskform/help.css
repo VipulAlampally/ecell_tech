@@ -1,0 +1,9 @@
+#inputFields{
+    position: absolute;
+    top: 48%;
+    left: 42%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
